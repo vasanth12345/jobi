@@ -4,6 +4,9 @@
 Only javascript projects
 15 mini projects
  
+ all projects link
+ https://javascript-mini-projects-main.netlify.app/
+ 
 1- color flipper
 2- Digital clock
 3- Counter
